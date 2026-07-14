@@ -30,6 +30,7 @@
   - システム開発の世界標準規格まで遡ってみた
     - 特に要求仕様化の段階に関与するのは BABOK と ISO/IEC/IEEE 29148（国内対応物：JIS X 0166）
     - 変更管理などの項目はあるものの、派生開発ノウハウの記述は薄い（本当か？）
+  - AFFORDD（派生開発推進協議会）が 2026年に [USDM-Schema](https://github.com/affordd-prj/usdm-schema) を公式化したが、新規開発用 USDM の形式化にとどまり、**派生開発（変更・追加）への対応は含まれていない**
   - **「新規開発用の要求仕様書テンプレートはこうなります」**
     - https://github.com/s8sato/settings/blob/main/.vscode/blueprints/spec/requirements.template.tsv
   - **「派生開発に適用するには何が足りないと思いますか？」** ← 聴衆への問いかけ
