@@ -63,12 +63,8 @@ XDDP を参考に、自社向けに整備した手法。
 
 ## 参照
 
-| 資料 | リンク |
-|---|---|
-| 要求仕様書テンプレート（派生開発用） | [requirements.delta.template.tsv](https://github.com/s8sato/settings/blob/main/.vscode/blueprints/spec/requirements.delta.template.tsv) |
-| 要求仕様書の設計 | [WORKFLOW.md §3. 上流文書群](https://github.com/s8sato/settings/blob/main/.vscode/blueprints/WORKFLOW.md#31-%E8%A8%AD%E8%A8%88%E5%8E%9F%E5%89%87) |
-| 『「派生開発」を成功させるプロセス改善の技術と極意』清水吉男、2007 | https://gihyo.jp/book/2007/978-4-7741-3249-5 |
-| 『【改訂第２版】要求を仕様化する技術・表現する技術』清水吉男、2010 | https://gihyo.jp/book/2010/978-4-7741-4257-9 |
-| BABOK | https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/ |
-| ISO/IEC/IEEE 29148 | https://www.iso.org/standard/72089.html |
-| JIS X 0166 | https://webdesk.jsa.or.jp/books/W11M0090/?bunsyo_id=JIS%20X%200166:2021 |
+- [『「派生開発」を成功させるプロセス改善の技術と極意』清水吉男、2007](https://gihyo.jp/book/2007/978-4-7741-3249-5)
+- [『【改訂第２版】要求を仕様化する技術・表現する技術』清水吉男、2010](https://gihyo.jp/book/2010/978-4-7741-4257-9)
+- [BABOK](https://www.iiba.org/career-resources/a-business-analysis-professionals-foundation-for-success/babok/)
+- [ISO/IEC/IEEE 29148](https://www.iso.org/standard/72089.html)
+- [JIS X 0166](https://webdesk.jsa.or.jp/books/W11M0090/?bunsyo_id=JIS%20X%200166:2021)
